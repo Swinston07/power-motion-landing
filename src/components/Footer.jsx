@@ -48,7 +48,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-white/10 py-6 text-center text-xs text-emerald-100/70">
-        &copy; {new Date().getFullYear()} PowerMotion. All rights reserved.
+        &copy; {new Date().getFullYear()} Power Motion Rescue. All rights reserved.
       </div>
     </footer>
   );
