@@ -8,7 +8,7 @@ export default function Footer() {
         {/* Brand */}
         <div>
           <div className="flex items-center gap-2 font-extrabold text-lg">
-            <span className="text-lime-300 text-xl">⚡</span> PowerMotion
+            <span className="text-lime-300 text-xl">⚡</span> Power Motion Rescue
           </div>
           <p className="mt-3 text-emerald-100/80 text-sm leading-relaxed">
             Reliable roadside assistance for electric and traditional vehicles.
